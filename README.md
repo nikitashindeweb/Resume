@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikitashindeweb
 - 👀 I’m interested in coding 
-- good in languages like reactJs, NodeJs, PHP & Laravel
+- Good in languages like reactJs, NodeJs, PHP & Laravel
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me shindenikita111998@gmail.com
 
